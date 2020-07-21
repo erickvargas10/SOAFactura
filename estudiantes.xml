@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<estudiantes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="Venetian.xsd">
+    
+    <identificacion></identificacion>
+    <primer_nombre></primer_nombre>
+    <segundo_nombre></segundo_nombre>
+    <primer_apellido></primer_apellido>
+    <segundo_apellido></segundo_apellido>
+    <genero></genero>
+    <telefono></telefono>
+    <direccion></direccion>
+    
+</estudiantes>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<nodo_padre>
+    <nodo_hijo>
+        <valor>valor 1</valor>
+		<datos>
+			<nombre>BYRON</nombre>
+			<apellido>LOARTE</apellido>
+		</datos>
+    </nodo_hijo>
+	<nodo_hijo>
+        <valor>valor 2</valor>
+    </nodo_hijo>
+	<nodo_hijo>
+        <valor>valor 3</valor>
+    </nodo_hijo>
+	<nodo_hijo>
+        <valor>valor 4</valor>
+    </nodo_hijo>
+</nodo_padre>
